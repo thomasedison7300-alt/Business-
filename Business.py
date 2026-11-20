@@ -50,7 +50,7 @@ CFG_VIRUSTOTAL_API_KEY = "dba78a858bf9172f15041d49725b21ea9c16949488855a9237d5b8
 # Truecaller
 CFG_TC_API_ID = "32436466"
 CFG_TC_API_HASH = "ede40edc665c6b2602c2b207a93db691"
-CFG_TC_SESSION = ""           # الجلسة كاملة
+CFG_TC_SESSION = "1BJWap1wBu2NxsABpGN7NKJjcz1Gs84gBqJKQ8GIvI4aVtIk3Yyma_E7KQcdUBtSAcN9Aq4VFeH323CHVL-qHSrncB0Jttx1eqbVCKvt_XbVYV64FKHMfqGZJzrGLLETm__da_Mf9-KTWuwM326TsXo--eYNWiXieR24IipkZAG6UC3IYMS-tjt4ZfRDeK4YyR3N4blZ-8UUUkrURWOsM3DEnXTGSxjYNDnr1h5yrBdoIUc2XrlvjbAu8qwoIY4yoUM2B7oNr7VzYfDdGNWA0_nvbozYqmZkHnyU2N1O4eqfjVonX4TAp5Uo1G8lrk9pFv_lOR7lvxvAOA6fEqF3fPnIgNMRTjIY="           # الجلسة كاملة
 # Rich Messages: 1 تشغيل / 0 إيقاف — والفحص يبعت رسائل اختبار للمالك عند التشغيل
 CFG_RICH_MESSAGES = "1"
 CFG_RICH_PROBE = "0"          # "1" = يبعت رسائل فحص للمالك عند التشغيل (موقوف)
