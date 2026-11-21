@@ -44,7 +44,7 @@ load_dotenv()
 
 # ════════════════════ إعدادات التشغيل — عدّل القيم هنا مباشرة ════════════════════
 # أي قيمة تتركها فارغة "" يقرأها البوت من ملف .env (لو موجود) كما كان قبل التعديل.
-CFG_BOT_TOKEN = "8861566448:AAEh7nTscqN9RaVS96uzaYGzTTaTHRJBSjY"
+CFG_BOT_TOKEN = "8719220845:AAFHxIXqUKSpODCBEVm923KFsSnHJDwkQ2o"
 CFG_OWNER_ID = "6604178348"
 CFG_VIRUSTOTAL_API_KEY = "dba78a858bf9172f15041d49725b21ea9c16949488855a9237d5b880d123cad4"   # مفتاح VirusTotal كاملًا
 # Truecaller
